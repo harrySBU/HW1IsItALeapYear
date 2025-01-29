@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Leap years are divisible by 4 except if they are divisible by 100
  * if they are divisible by 100 then they must be divisible by 400
  */
-public class IsItLeapYear {
+public class IsItLeapYear2 {
 	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
